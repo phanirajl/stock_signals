@@ -104,6 +104,7 @@ module.exports = [
     "NASDAQ-MSFT",
     "NASDAQ-MU",
     "NYSE-MUX",
+    "NASDAQ-NBEV",
     "NASDAQ-NFLX",
     "NYSE-NOK",
     "NASDAQ-NTLA",
