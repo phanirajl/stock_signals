@@ -25,6 +25,7 @@ module.exports = [
     "NASDAQ-CDTI",
     "NASDAQ-CELG",
     "NYSE-CF",
+    "NASDAQ-CGIX",
     "NASDAQ-CGNX",
     "NASDAQ-CIBR",
     "NYSE-CINR",
