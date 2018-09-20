@@ -91,6 +91,7 @@ module.exports = [
     "NYSE-JPM",
     "NASDAQ-KALA",
     "NASDAQ-KHC",
+    "NYSE-KO",
     "NASDAQ-LRCX",
     "NYSE-LSI",
     "NYSE-LUV",
