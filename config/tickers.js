@@ -45,7 +45,7 @@ module.exports = [
     "NASDAQ-EDIT",
     "NYSE-EGO",
     "NASDAQ-EKSO",
-    "TSX-ENB",
+    "NYSE-ENB",
     "NYSE-ETN",
     "NYSE-EXG",
     "NYSE-EXK",
