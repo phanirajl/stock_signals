@@ -157,6 +157,7 @@ module.exports = [
     "NASDAQ-TSLA",
     "NYSE-TWTR",
     "NYSE-TX",
+    "NASDAQ-TXMD",
     "NASDAQ-TXN",
     "AMEX-UAMY",
     "NYSE-V",
