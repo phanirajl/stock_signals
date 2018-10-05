@@ -2,6 +2,7 @@ module.exports = [
     "NASDAQ-AAPL",
     "NYSE-ABB",
     "NYSE-ABBV",
+    "NYSE-ABX",
     "NYSE-AIT",
     "NYSE-ALB",
     "NASDAQ-AMAT",
