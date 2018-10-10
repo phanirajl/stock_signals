@@ -111,6 +111,7 @@ module.exports = [
     "NYSE-MUX",
     "NASDAQ-NBEV",
     "NYSE-NEM",
+    "NYSE-NEWR",
     "NASDAQ-NFLX",
     "NYSE-NOK",
     "NASDAQ-NTLA",
