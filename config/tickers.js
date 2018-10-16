@@ -176,6 +176,7 @@ module.exports = [
     "NASDAQ-VYMI",
     "NYSE-VZ",
     "NYSE-WFC",
+    "NYSE-WMT",
     "NYSE-WPG",
     "NYSE-WPM",
     "NYSE-WTR",
