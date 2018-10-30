@@ -10,6 +10,7 @@ module.exports = [
     "NYSE-AMC",
     "NASDAQ-AMD",
     "NASDAQ-AMZN",
+    "NYSE-AQUA",
     "NASDAQ-ARCC",
     "NASDAQ-ARTNA",
     "NASDAQ-ARTX",
