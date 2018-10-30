@@ -98,7 +98,6 @@ module.exports = [
     "NYSE-NEM",
     "NASDAQ-NFLX",
     "NYSE-NOK",
-    "NASDAQ-NTLA",
     "NASDAQ-NVDA",
     "NYSE-ORCL",
     "NASDAQ-PEGI",
