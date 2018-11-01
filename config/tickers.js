@@ -42,6 +42,7 @@ module.exports = [
     "NYSE-DIS",
     "NYSE-DUK",
     "NASDAQ-DVY",
+    "NYSE-DWDP",
     "NASDAQ-EDIT",
     "NYSE-EGO",
     "NASDAQ-EKSO",
