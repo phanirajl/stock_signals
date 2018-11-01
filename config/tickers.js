@@ -62,7 +62,6 @@ module.exports = [
     "NYSE-GIS",
     "NASDAQ-GOOG",
     "NASDAQ-GOOGL",
-    "AMEX-GSAT",
     "NYSE-HASI",
     "NYSE-HBM",
     "AMEX-HDV",
